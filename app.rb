@@ -1,5 +1,4 @@
 require 'sinatra'
-require './lib/middlewares/auth_middleware'
 
 class App < Sinatra::Base
 
